@@ -3,4 +3,8 @@
 张康杰的仓库
 44444444
 滴滴滴滴滴滴滴滴
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
